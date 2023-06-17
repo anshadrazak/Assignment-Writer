@@ -35,7 +35,7 @@ def split_text(text, max_width, font_names, font_size=24):
 max_width = 610
 
 # Split the input text into separate lines
-text = "This is written by PC"
+text = "Your text here"
 # Split the input text into separate lines
 lines = split_text(text, max_width, font_names)
 
